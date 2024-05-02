@@ -1,0 +1,14 @@
+.transform1,
+.transform2,
+.transform3,
+.transform4,
+.transform5 {
+    transform: translate(10px, 20px);
+    background-image: linear-gradient(purple, pink);
+    height: 100px;
+    width: 1000px;
+    rotate: 10;
+    text-align: center;
+    transform: rotate(55deg);
+    color: aliceblue;
+}
